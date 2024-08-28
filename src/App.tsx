@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import LayOut from './components/Layout';
+import LayOut from './components/LayOut';
 import Home from './pages/Home';
 import NewPlaylistForm from './pages/NewPlaylistForm';
 
